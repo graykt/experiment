@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTracker", "GeoTracker\GeoTracker.csproj", "{EEF2DBCC-BB5B-4224-926E-66F857F07197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Debug|ARM.ActiveCfg = Debug|ARM
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Debug|ARM.Build.0 = Debug|ARM
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Debug|ARM.Deploy.0 = Debug|ARM
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Debug|x64.ActiveCfg = Debug|x64
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Debug|x64.Build.0 = Debug|x64
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Debug|x64.Deploy.0 = Debug|x64
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Debug|x86.ActiveCfg = Debug|x86
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Debug|x86.Build.0 = Debug|x86
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Debug|x86.Deploy.0 = Debug|x86
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Release|ARM.ActiveCfg = Release|ARM
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Release|ARM.Build.0 = Release|ARM
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Release|ARM.Deploy.0 = Release|ARM
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Release|x64.ActiveCfg = Release|x64
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Release|x64.Build.0 = Release|x64
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Release|x64.Deploy.0 = Release|x64
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Release|x86.ActiveCfg = Release|x86
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Release|x86.Build.0 = Release|x86
+		{EEF2DBCC-BB5B-4224-926E-66F857F07197}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35D8C2E6-098A-4A88-ACF2-73313F85D0D2}
+	EndGlobalSection
+EndGlobal

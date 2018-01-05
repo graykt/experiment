@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="GeoTracker.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GeoTracker"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel Orientation="Horizontal" Margin="0,10,0,10">
+            <Button x:Name="StartTrackingButton" Content="Start Tracking" Margin="0,0,10,0" Click="StartTracking"/>
+            <Button x:Name="StopTrackingButton"  Content="Stop Tracking" Margin="0,0,10,0" Click="StopTracking"/>
+        </StackPanel>
+    </Grid>
+</Page>
